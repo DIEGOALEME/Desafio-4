@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.big-box {
+    height: 100vh;
+    width: 100vw;
+}
+
+.box-01 {
+    display: inline-block;
+    width: 60%;
+    height: auto;
+    margin-top: 150px;
+    margin-left: 23px;
+}
+
+.box-02 {
+    display: inline-block;
+    background-color: rgba(93, 93, 125, 1);
+    height: 100vh;
+    width: 40%;
+    position: absolute;
+    opacity: 90%;
+
+}
+
+.img-tema {
+    width: 456 px;
+    height:561.95 px;
+    margin-left:600 px;
+    margin-top:700 px;
+
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 400;
+    Line-height:80px;
+}
+
+h3 {
+    Opacity: 60%;
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+
+button {
+    Width:269px;
+    Height:62px;
+    border-radius: 20px;
+    font-size: 30px;
+    background-color: rgba(93, 93, 125, 1) ;
+    opacity: 60%;
+    cursor: pointer;
+}
+
